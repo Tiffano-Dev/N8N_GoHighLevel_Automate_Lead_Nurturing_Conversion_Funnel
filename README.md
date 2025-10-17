@@ -1,4 +1,4 @@
-Automated Lead Nurturing & Conversion Funnel using GoHighLevel + n8n
+## Automated Lead Nurturing & Conversion Funnel using GoHighLevel + n8n
 
 ![n8n](https://img.shields.io/badge/Built%20with-n8n-blue)
 ![GoHighLevel](https://img.shields.io/badge/Built%20with-GoHighLevel-orange)
